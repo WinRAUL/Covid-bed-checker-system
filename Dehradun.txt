@@ -1,0 +1,3 @@
+CsM = 60
+LogiCare = 16
+DoonMeds = 40

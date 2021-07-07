@@ -1,0 +1,4 @@
+Fortuna Clinic = 30
+Serenity Hospital = 67
+Little River Medical Center = 28
+Silverwood Clinic = 18

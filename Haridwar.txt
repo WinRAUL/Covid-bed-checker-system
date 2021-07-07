@@ -1,0 +1,3 @@
+Haridwar Horizon Hospital = 62
+Marine Medical = 43
+Hospital Grand Garden = 15

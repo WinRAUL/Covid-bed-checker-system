@@ -1,0 +1,3 @@
+Castle Hospital = 43
+Maple Grove Hospital = 32
+Laguna Clinic = 29

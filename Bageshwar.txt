@@ -1,0 +1,4 @@
+hospA = 30
+hospB = 12
+hospC = 32
+hospD = 6

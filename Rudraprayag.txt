@@ -1,0 +1,3 @@
+Pandit Kishor Seva Govt Hosp = 40
+Summerstone Hospital = 13
+Ganga hospital = 23

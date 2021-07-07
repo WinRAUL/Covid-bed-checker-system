@@ -1,0 +1,3 @@
+hospitalAA = 9
+hosp BB = 5
+hospital CC = 12

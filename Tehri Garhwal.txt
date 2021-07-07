@@ -1,0 +1,3 @@
+Genesis General Hospital = 30
+Hospital Indresh = 14
+AIMS (Tehri) = 80

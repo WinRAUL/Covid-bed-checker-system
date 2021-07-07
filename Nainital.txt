@@ -1,0 +1,3 @@
+Silverwood Clinic = 23
+Alliance Medicals = 48
+Greengrass Clinic = 32

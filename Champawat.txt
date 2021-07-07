@@ -1,0 +1,3 @@
+champawat govt hosp = 50
+onmile hosp = 14
+homeRem hosp = 6

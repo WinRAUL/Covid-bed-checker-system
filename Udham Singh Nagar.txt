@@ -1,0 +1,4 @@
+Lilypad Gardens Clinic = 24
+Lifecare Community Hospital = 3
+Amity General Hospital = 17
+Clemency Hospital = 26

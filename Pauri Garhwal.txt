@@ -1,0 +1,2 @@
+vanraaj hosp = 32 
+Pauri gov medical facility= 19 
